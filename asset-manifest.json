@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Gamamujur/react-foodorder/static/css/main.79cf344f.css",
-    "main.js": "/Gamamujur/react-foodorder/static/js/main.fd4349b6.js",
-    "static/js/787.9da6907c.chunk.js": "/Gamamujur/react-foodorder/static/js/787.9da6907c.chunk.js",
-    "static/media/food bg.jpg": "/Gamamujur/react-foodorder/static/media/food bg.6ef6db913df93a631506.jpg",
-    "index.html": "/Gamamujur/react-foodorder/index.html",
-    "main.79cf344f.css.map": "/Gamamujur/react-foodorder/static/css/main.79cf344f.css.map",
-    "main.fd4349b6.js.map": "/Gamamujur/react-foodorder/static/js/main.fd4349b6.js.map",
-    "787.9da6907c.chunk.js.map": "/Gamamujur/react-foodorder/static/js/787.9da6907c.chunk.js.map"
+    "main.css": "/react-foodorder/static/css/main.79cf344f.css",
+    "main.js": "/react-foodorder/static/js/main.69c4132a.js",
+    "static/js/787.9da6907c.chunk.js": "/react-foodorder/static/js/787.9da6907c.chunk.js",
+    "static/media/food bg.jpg": "/react-foodorder/static/media/food bg.6ef6db913df93a631506.jpg",
+    "index.html": "/react-foodorder/index.html",
+    "main.79cf344f.css.map": "/react-foodorder/static/css/main.79cf344f.css.map",
+    "main.69c4132a.js.map": "/react-foodorder/static/js/main.69c4132a.js.map",
+    "787.9da6907c.chunk.js.map": "/react-foodorder/static/js/787.9da6907c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.79cf344f.css",
-    "static/js/main.fd4349b6.js"
+    "static/js/main.69c4132a.js"
   ]
 }
